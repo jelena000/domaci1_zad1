@@ -11,7 +11,7 @@ const options = [
     value: "Dinar",
   },
   {
-    label: "Dolar",
+    label: "Dola2r",
     value: "Dolar",
   },
   {
